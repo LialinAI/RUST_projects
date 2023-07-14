@@ -10,3 +10,9 @@
 /Chapter_3/functions/target
 /Chapter_3/loops/target
 /Chapter_3/variables/target
+
+/Chapter_4/ownership/target
+/Chapter_4/references/target
+/Chapter_4/slice/target
+
+/.vscode
