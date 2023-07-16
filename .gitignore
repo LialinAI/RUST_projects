@@ -19,4 +19,8 @@
 /Chapter_5/examples_struct/target
 /Chapter_5/methods/target
 
+/Chapter_6/enum_pattern/target
+/Chapter_6/match_construct/target
+/Chapter_6/if_let_construct/target
+
 /.vscode
