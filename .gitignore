@@ -23,4 +23,8 @@
 /Chapter_6/match_construct/target
 /Chapter_6/if_let_construct/target
 
+/Chapter_7/backyard/target
+/Chapter_7/restaurant/target
+/Chapter_7/separating_modules/target
+
 /.vscode

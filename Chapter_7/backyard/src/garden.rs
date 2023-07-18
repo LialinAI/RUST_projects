@@ -1,0 +1,1 @@
+pub mod vegetables; // А здесь pub mod vegetables; указывает на подключаемый код в src/garden/vegetables.rs.
